@@ -39,4 +39,5 @@ print("Product of two arrays is:",product
 ![output](https://github.com/Hemapriya-2004/Multiplying-two-matrix/blob/main/h1.PNG?raw=true)
 
 ## RESULT:
+Thus the program is written to multiplying two matrix.
 
